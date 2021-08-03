@@ -1,4 +1,4 @@
-
+# Saniamo Mercy Portfolio
 
 ## [Project 1: Gender Gap in Tech as at 2019:](https://github.com/saniamo/Gender_Gap_in_Tech/blob/main/Gender%20gap%20in%20tech.ipynb) 
 The gender gap in the tech industry is very real — here’s what it looks like
