@@ -1,4 +1,4 @@
-#Saniamo Mercy Portfolio
+
 
 ## [Project 1: Gender Gap in Tech as at 2019:](https://github.com/saniamo/Gender_Gap_in_Tech/blob/main/Gender%20gap%20in%20tech.ipynb) 
 The gender gap in the tech industry is very real — here’s what it looks like
@@ -79,7 +79,7 @@ The pandemic regulations shut down the countries in March 2020, and as such scho
 
 It is was also established in 2019, that the difference between internet accessibility to men and women in developed countries was only 3%, while in least developed countries had a significant difference of 11.1%. This could mean that African women are affected even more by covid-19
 
-#### PROBLEM STATEMENT
+#### Problem Statement
 
 In what ways did Covid-19 affect education in African Nations?  
 How effective was the transition to online learning in different African countries?
