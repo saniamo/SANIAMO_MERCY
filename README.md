@@ -1,6 +1,51 @@
-# Saniamo Mercy Portfolio
+# PROJECTS
 
-## [Project 1: Gender Gap in Tech as at 2019:](https://github.com/saniamo/Gender_Gap_in_Tech/blob/main/Gender%20gap%20in%20tech.ipynb) 
+## [Project 1: Visualising the Coronavirus Pandemic:](https://github.com/saniamo/covid19visualization/blob/main/Visualizing%20the%20Coronavirus%20Pandemic.ipynb) 
+Data visualisation is the most effective method to illustrate and explain complex information, especially numerical data, in a simple and digestible manner.
+
+Data used for visualisation is Novel Corona Virus 2019 dataset from Kaggle, which can be found [here:](https://www.kaggle.com/sudalairajkumar/novel-coronavirus2019-dataset)
+
+The dataset is a composite of multiple sources including the World Health Organization, National Health Commission of the People’s Republic of China, and the United States Centers for Disease Control.
+
+![](https://raw.githubusercontent.com/saniamo/covid19visualization/main/newplot%20(3).png)
+
+Animated Choropleth Map shows the spread as well as timeline of Corona Virus.
+
+## [Project 2: Jumia Web Scraping:](https://github.com/saniamo/Jumiawebscrapper_db/blob/main/Scraping_Jumia_samsung_mysqlDB.ipynb) 
+![](https://raw.githubusercontent.com/saniamo/Jumiawebscrapper_db/main/download%20(1).png)
+
+Scraping data on Samsung phones from Jumia Kenya.
+Data is then saved to  to MySQL database.
+
+Data retrieved can be leveraged for:
+
+Price-monitoring and Product Research
+Better Customer analysis
+Increased productivity
+Better advertisements
+Influences Marketing and Sales Strategy
+Helps in Future analysis
+
+## [Project 3: Food Prices in Kenya:](https://public.tableau.com/app/profile/mercy5931/viz/FoodPricesinKenya/FOODPRICESINKENYA) 
+![](https://raw.githubusercontent.com/saniamo/food_prices_in_Kenya/main/FOOD%20PRICES%20IN%20KENYA.png)
+
+## [Project 4: Photo Translator:](https://github.com/saniamo/photo_translator/blob/main/Text_recognition_and%20_Translator.ipynb) 
+![](https://raw.githubusercontent.com/saniamo/photo_translator/main/photo_translator.png)
+
+##### Python libraries used
+
+Pillow: A powerful image-processing library. 
+Pytesseract: The library used to recognise text in an image.
+Googletrans:  Used in translation.
+
+Program can be leveraged by learners of new languages.
+
+## [Project 5: Uber Stock Price Prediction:](https://github.com/saniamo/Uber_Stock_Price_Prediction/blob/main/uber.ipynb) 
+![](https://raw.githubusercontent.com/saniamo/Uber_Stock_Price_Prediction/main/download.png)
+
+[datasource](https://finance.yahoo.com/quote/UBER/history?p=UBER)
+
+## [Project 6: Gender Gap in Tech as at 2019:](https://github.com/saniamo/Gender_Gap_in_Tech/blob/main/Gender%20gap%20in%20tech.ipynb) 
 The gender gap in the tech industry is very real — here’s what it looks like
 
 ![](https://raw.githubusercontent.com/saniamo/Gender_Gap_in_Tech/main/newplot%20(1).png)
@@ -21,53 +66,8 @@ From the visualizations:
 #### Conclusion
 Gender disparity in the tech industry is real and women are underrepresented in this field.
 
-## [Project 2: Visualising the Coronavirus Pandemic:](https://github.com/saniamo/covid19visualization/blob/main/Visualizing%20the%20Coronavirus%20Pandemic.ipynb) 
-Data visualisation is the most effective method to illustrate and explain complex information, especially numerical data, in a simple and digestible manner.
-
-Data used for visualisation is Novel Corona Virus 2019 dataset from Kaggle, which can be found [here:](https://www.kaggle.com/sudalairajkumar/novel-coronavirus2019-dataset)
-
-The dataset is a composite of multiple sources including the World Health Organization, National Health Commission of the People’s Republic of China, and the United States Centers for Disease Control.
-
-![](https://raw.githubusercontent.com/saniamo/covid19visualization/main/newplot%20(3).png)
-
-Animated Choropleth Map shows the spread as well as timeline of Corona Virus.
-
-## [Project 3: Food Prices in Kenya:](https://public.tableau.com/app/profile/mercy5931/viz/FoodPricesinKenya/FOODPRICESINKENYA) 
-![](https://raw.githubusercontent.com/saniamo/food_prices_in_Kenya/main/FOOD%20PRICES%20IN%20KENYA.png)
-
-## [Project 4: Uber Stock Price Prediction:](https://github.com/saniamo/Uber_Stock_Price_Prediction/blob/main/uber.ipynb) 
-![](https://raw.githubusercontent.com/saniamo/Uber_Stock_Price_Prediction/main/download.png)
-
-[datasource](https://finance.yahoo.com/quote/UBER/history?p=UBER)
-
-## [Project 5: Jumia Web Scraping:](https://github.com/saniamo/Jumiawebscrapper_db/blob/main/Scraping_Jumia_samsung_mysqlDB.ipynb) 
-![](https://raw.githubusercontent.com/saniamo/Jumiawebscrapper_db/main/download%20(1).png)
-
-Scraping data on Samsung phones from Jumia Kenya.
-Data is then saved to  to MySQL database.
-
-Data retrieved can be leveraged for:
-
-Price-monitoring and Product Research
-Better Customer analysis
-Increased productivity
-Better advertisements
-Influences Marketing and Sales Strategy
-Helps in Future analysis
-
-## [Project 6: Photo Translator:](https://github.com/saniamo/photo_translator/blob/main/Text_recognition_and%20_Translator.ipynb) 
-![](https://raw.githubusercontent.com/saniamo/photo_translator/main/photo_translator.png)
-
-##### Python libraries used
-
-Pillow: A powerful image-processing library. 
-Pytesseract: The library used to recognise text in an image.
-Googletrans:  Used in translation.
-
-Program can be leveraged by learners of new languages.
-
 ## Collaboration Projects
-## [Project 4: TAND-EDU:](https://github.com/Women-Techsters-Fellowship-2021/Tand-Edu-App-Project/tree/main/Tan-Edu%20App%20Project) 
+## [Project 7: TAND-EDU:](https://github.com/Women-Techsters-Fellowship-2021/Tand-Edu-App-Project/tree/main/Tan-Edu%20App%20Project) 
  
 #### Background
 
