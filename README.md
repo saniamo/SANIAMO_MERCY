@@ -3,7 +3,7 @@
 ## [Project 1: Visualising the Coronavirus Pandemic:](https://github.com/saniamo/covid19visualization/blob/main/Visualizing%20the%20Coronavirus%20Pandemic.ipynb) 
 Data visualisation is the most effective method to illustrate and explain complex information, especially numerical data, in a simple and digestible manner.
 
-Data used for visualisation is Novel Corona Virus 2019 dataset from Kaggle, which can be found [here:](https://www.kaggle.com/sudalairajkumar/novel-coronavirus2019-dataset)
+Data used for visualisation is Novel Corona Virus 2019 dataset from Kaggle, which can be found [here](https://www.kaggle.com/sudalairajkumar/novel-coronavirus2019-dataset)
 
 The dataset is a composite of multiple sources including the World Health Organization, National Health Commission of the People’s Republic of China, and the United States Centers for Disease Control.
 
