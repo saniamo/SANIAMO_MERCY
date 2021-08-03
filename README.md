@@ -1,4 +1,3 @@
-## Saniamo Mercy 
 
 ## [Project 1: Gender Gap in Tech as at 2019:](https://github.com/saniamo/Gender_Gap_in_Tech/blob/main/Gender%20gap%20in%20tech.ipynb) 
 The gender gap in the tech industry is very real — here’s what it looks like
@@ -97,17 +96,8 @@ Bridge the education gap in developed and underdeveloped countries by building a
 The tandem app is an application that would provide a platform for students and teachers in developing and developed countries to interact for the purpose of learning, and knowledge sharing on academic and socio-cultural aspects, with an aim to breach the gab in the educational sector as a result of the Covid-19 pandemic. It offers students the opportunity to find a match in other countries based on certain attributes they posses and topics/areas they may be interested in. The app also provide oppourtunity for entertainment
 
 
-### Hi, I'm Saniamo 👋🏾 👩🏾‍💻
 
 
-Data Science and AI fellow at 
-<a href="https://www.tech4dev.com/">
-        Tech4Dev
-    </a>
-
-I am a passionate data scientist who has broad programming and statistics skills. I would love to use these skills to solve various business problems by using machine learning, data mining, and other types of data analytics and data visualization tools such as Python, TensorFlow, Tableau, etc.
-
-Coding aside, I enjoy listening to music and cat sitting.
 
 ### Find me around the web 🌎:
 
